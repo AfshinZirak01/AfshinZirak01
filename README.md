@@ -38,3 +38,21 @@ This is ___Afshin Zirak___ acount.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfshinZirak01&hide_progress=true)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AfshinZirak01)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AfshinZirak01)](https://github.com/AfshinZirak01/github-readme-stats)
+
+
+
+
+<img width='300px' height='200px' src='https://github.com/AfshinZirak01/result/blob/master/118-1183849_striped-bar-png-transparent-png.png?raw=true'>
+
+<img width='200px' height='200px' src='https://github.com/AfshinZirak01/result/blob/master/118-1183849_striped-bar-png-transparent-png.png?raw=true'>
+
+
+
+
+
+
+
+
+
+
+
