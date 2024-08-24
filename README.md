@@ -20,6 +20,10 @@
 <hr />
 
 ![Static Badge](https://img.shields.io/badge/Website-www.buildnewage.com-blue?style=social&logo=google%20chrome)
+<a href='http://instagram.com/afshin_barish'>
+![Static Badge](https://img.shields.io/badge/Instagram-@afshin_barish-red?style=flat&logo=instagram)
+</a>
+
 
 
 
