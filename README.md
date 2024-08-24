@@ -23,6 +23,9 @@
 <a href='http://instagram.com/afshin_barish'>
 ![Static Badge](https://img.shields.io/badge/Instagram-@afshin_barish-red?style=flat&logo=instagram)
 </a>
+<a href='http://t.me/Aminkhoy78'>
+<img src='https://github.com/AfshinZirak01/AfshinZirak01/blob/main/icons8-telegram-96.png?raw=true' />
+</a>
 
 
 
